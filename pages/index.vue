@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        Module Assignment 2
+       yeeah booi!
       </h1>
       <h2 class="subtitle">
        Nuxtjs by Remano Victor
