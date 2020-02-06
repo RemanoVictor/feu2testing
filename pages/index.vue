@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        fucks-sakes
+        Module Assignment 2
       </h1>
       <h2 class="subtitle">
-        My hunky-dory Nuxt.js project
+       Nuxtjs by Remano Victor
       </h2>
       <div class="links">
         <a
